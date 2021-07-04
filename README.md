@@ -1,5 +1,7 @@
 # Boas vindas ao repositório do projeto Data-Flights!
 
+# Banco de Dados não postado devido Propriedade Intelectual.
+
 #### Projeto elaborado e proposto as pessoas estudantes da [<img src="./trybe.png" width="70px" alt="Trybe">][website]
 
 #### Projeto executado com aproximadamente 7 meses de curso.
